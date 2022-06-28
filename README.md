@@ -1,4 +1,4 @@
-                                                            99 Robbers Official Gaming Website
+<center>99 Robbers Official Gaming Website
 ====================
 
 Intended to look good to use on college applications
