@@ -1,12 +1,11 @@
-A First Level Header
+                                                            99 Robbers Official Gaming Website
 ====================
 
-A Second Level Header
+Intended to look good to use on college applications
 ---------------------
 
-Now is the time for all good men to come to
-the aid of their country. This is just a
-regular paragraph.
+Right now there are just text but the goal is to place rectangular image squares on the website 
+and make games from them
 
 The quick brown fox jumped over the lazy
 dog's back.
