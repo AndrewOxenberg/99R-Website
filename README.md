@@ -1,4 +1,4 @@
-99 Robbers Official Gaming Website
+<!-- 99 Robbers Official Gaming Website
 ====================
 
 Intended to look good to use on college applications
@@ -63,4 +63,4 @@ The title attribute is optional. Link names may contain letters, numbers and spa
 I start my morning with a cup of coffee and
 [The New York Times][NY Times].
 
-[ny times]: http://www.nytimes.com/
+[ny times]: http://www.nytimes.com/ -->
