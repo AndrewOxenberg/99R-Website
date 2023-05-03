@@ -75,21 +75,32 @@ body
     width: 151vh;
   }
 
+  .team1Info
+  {
+    padding-left: 50px;
+    padding-top: 15px;
+    padding-right: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+
   #team1Name::before {
     color:#dee5e5;
     content: "Cleveland"; /* variable */
     font-weight: normal;
     font-size: 20px;
-    padding-left: 50px;
-    padding-top: 30px;
-    padding-right: 20px;
   }
 
   #team1Record::before {
-    padding-left: 50px;
     font-weight: 100;
-    font-size: 20px;
+    font-size: 18px;
     color:#dee5e5;
     content: "0 - 0"; /* variable */
+  }
+
+  #team1Logo::before {
+    background: url(https://sportteamslogo.com/api?key=9766b321891d4faa9ddc00ea27737b17&size=small&tid=4417) no-repeat;
+    
   }
 
