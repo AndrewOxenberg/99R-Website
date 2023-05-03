@@ -1,0 +1,95 @@
+/*
+database link: https://sportteamslogo.com/apidoc
+
+
+ https://sportteamslogo.com/api?key=[key]&size=[size]&tid=[team_id]
+*/
+
+
+body
+{
+  background-color: rgba(7, 13, 25, 100);
+  font-family: Georgia, serif;
+  font-weight: 200;
+}
+
+ ul {
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+    display: flex;
+    width: 100%;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #dee5e5;
+  }
+
+  .nav_bar li {float: left; }
+
+  .nav_bar li a {
+    padding: 20px 40px;
+    display: inline-block;
+    color: #53807f;
+    text-align: center;
+    text-decoration: none;
+    transition: all 0.4s ease 0s;
+    cursor: default;
+  }
+
+  .nav_bar li a:hover {
+    background-color: #3c6371;
+    color: white;
+  }
+  
+
+  h1, h3{
+    padding-left: 40px;
+    padding-top: 30px;
+    font-size: 30px;
+    color: #dee5e5;
+  }
+
+  h3 {font-size: 18px; font-weight: normal;}
+
+  .projections {
+    text-align: center;
+    padding: 5px;
+    background-color: #dee5e5;
+    color: #53807f;
+    border: transparent;
+    margin: 40px;
+    font-size: 30px;
+    width: 150vh;
+  }
+
+  .matchup {
+    background-color: #3c6371;
+    color: #dee5e5;
+    border-width: 2px;
+    border-style: solid;
+    border-color: #dee5e5;
+    margin-left: 40px;
+    font-size: 30px;
+    width: 151vh;
+  }
+
+  #team1Name::before {
+    color:#dee5e5;
+    content: "Cleveland"; /* variable */
+    font-weight: normal;
+    font-size: 20px;
+    padding-left: 50px;
+    padding-top: 30px;
+    padding-right: 20px;
+  }
+
+  #team1Record::before {
+    padding-left: 50px;
+    font-weight: 100;
+    font-size: 20px;
+    color:#dee5e5;
+    content: "0 - 0"; /* variable */
+  }
+
